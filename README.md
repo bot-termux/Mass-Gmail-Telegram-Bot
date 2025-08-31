@@ -1,7 +1,7 @@
 # Mass Gmail Telegram Bot 🚀
 
 A **Telegram Bot** for handling multiple Gmail accounts with ease.  
-Built for entrepreneurs, teams, and power users who need **mass email automation** without compromise.
+Built for power users who need **mass email automation** without compromise.
 
 ---
 
@@ -11,7 +11,7 @@ Built for entrepreneurs, teams, and power users who need **mass email automation
 - 🔍 `/find` — search emails by sender  
 - 📖 `/readall` — mark all emails as read  
 - 🗑 `/delete` — delete emails by sender  
-- 📤 `/send` — send emails with text/HTML/attachments  
+- 📤 `/send` — send emails 
 - 🔔 `/notif` — enable/disable real-time notifications  
 - 👤 `/id` — view user/chat ID  
 - 📩 Auto detect forwarded messages in private chat → show original sender/chat info  
