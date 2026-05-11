@@ -21,7 +21,8 @@ Built for power users who need **mass email automation** without compromise.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/bot-terrmux/Mass-Gmail-Telegram-Bot
-   cd gmail-telegram-bot
+   unzip Mass-Gmail-Telegram-Bot
+   cd Mass-Gmail-Telegram-Bot
    ```
 
 2. **Create Google Cloud Project**, enable Gmail API, and download `client_secret.json`.
